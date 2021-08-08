@@ -20,12 +20,12 @@
 
 - ⚛ ReactJS, Router and Hooks-> 🌱 In Progress..
 
-Human languages =>
+### Human languages =>
 
 - Spanish: Native
 - English: intermediate -> always practicing and learning 🌱
 
-Other stuff =>
+### Other stuff =>
 
 - 🚀 My team and I won Cordoba Nasa SpacesApps challenge in 2019 and 2020 and get Global nominate
 - 🔭 I am currently working on an application to promote, collaborate and help the environment, through planting native species 🌱
