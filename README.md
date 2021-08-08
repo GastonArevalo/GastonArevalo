@@ -14,6 +14,7 @@
 - Heroku & Firebase
 - VS Code
 - Git, Jira & Bitbucket
+- DialogFlow
 
 ### ⚡ Learning now =>
 
