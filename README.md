@@ -22,7 +22,7 @@
 
 Human languages =>
 
-- eSpanish: Native
+- Spanish: Native
 - English: intermediate -> always practicing and learning 🌱
 
 Other stuff =>
