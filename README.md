@@ -7,7 +7,7 @@
 
 - Bootstrap 5 / Bulma.io / Material UI
 - Javascript / TypeScript
-- Angular 2+ (Currently )
+- Angular 2+ (Currently 12)
 - Python & Flask
 - HTML5 / CSS3
 - PHP7 & MySQL
