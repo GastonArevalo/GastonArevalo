@@ -19,7 +19,7 @@
 ### ⚡ Learning now =>
 
 - ⚛ ReactJS, Router and Hooks-> 🌱 In Progress..
-- ⚛ UX Desing -> 🌱 In Progress..
+- 🐾 UX Desing -> 🌱 In Progress..
 
 ### 🏳 Human languages =>
 
