@@ -42,7 +42,6 @@
 
 - 👴I was born in 1999, today I live in Córdoba, Argentina. 🇦🇷
 - 👨‍💻I love learning technologies to build projects that help solve problems and change the world.
-- 🖥Currently working in CUOS
 
 
 ### ☕🎸 Another things and Fun facts about me =>
