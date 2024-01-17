@@ -2,18 +2,16 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello There, I'm <a href="https://garevalolg.com">Gastón Arévalo</a></h1>
 <h3 align="center"> Fullstack Web Developer </h3>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GastonArevalo&layout=compact/">
-
 ### 💻 My skills & tools =>
 
-- Bootstrap 5 / Bulma.io / Material UI
 - Javascript / TypeScript
+- Scrum Master
 - Angular 2+ (Currently 12)
+- VueJS (Vue 3)
 - Python & Flask
 - HTML5 / CSS3
 - PHP7 & MySQL
+- Bootstrap 5 / Bulma.io / Material UI
 - Heroku & Firebase
 - VS Code
 - Git, Jira & Bitbucket
@@ -21,13 +19,13 @@
 
 ### ⚡ Learning now =>
 
-- ⚛ ReactJS, Router and Hooks-> 🌱 In Progress..
-- 🐾 UX Desing -> 🌱 In Progress..
+- ⚛ AWS -> 🌱 In Progress..
+- 🐾 Advanced NodeJS -> 🌱 In Progress..
 
 ### 🏳 Human languages =>
 
 - Spanish: Native
-- English: intermediate -> always practicing and learning 🌱
+- English: B2 🌱
 
 ### 🎈 Other stuff =>
 
